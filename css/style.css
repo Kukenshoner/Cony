@@ -64,3 +64,28 @@
   .textoImagen {
     color: black;
   }
+
+
+
+  body {
+    /* Ajusta la imagen de fondo con la URL de la imagen que deseas utilizar */
+    background-image: url("https://img.freepik.com/vector-gratis/acuarela-corazones-patrones-fisuras_1108-561.jpg?w=2000");
+
+    /* https://img.freepik.com/foto-gratis/corazones-rosados-brillantes-costura-estampados_53876-94593.jpg?w=2000 */
+    /* https://img.freepik.com/vector-gratis/acuarela-corazones-patrones-fisuras_1108-561.jpg?w=2000 */
+    /* Ajusta el tamaño de la imagen de fondo para cubrir toda la pantalla */
+    background-size: cover;
+
+    /* Ajusta la posición de la imagen de fondo al centro */
+    background-position: center;
+
+    /* Asegura que la imagen de fondo no se repita */
+    background-repeat: no-repeat;
+
+    /* Ajusta la altura del cuerpo para que cubra toda la pantalla */
+    height: auto;
+
+    /* Establece el margen del cuerpo en 0 para eliminar espacios alrededor */
+    margin: 0;
+    padding: 0;
+}
