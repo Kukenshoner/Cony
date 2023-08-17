@@ -65,7 +65,9 @@
     color: black;
   }
 
-
+  .radio {
+    border-radius: 15px;
+  }
 
   body {
     /* Ajusta la imagen de fondo con la URL de la imagen que deseas utilizar */
